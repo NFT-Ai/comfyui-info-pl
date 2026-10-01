@@ -6,7 +6,7 @@ license = { file = "LICENSE" }
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/CHANGE-ME/comfyui-info-pl"
+Repository = "https://github.com/NFT-Ai/comfyui-info-pl"
 
 [tool.comfy]
 PublisherId = "CHANGE-ME"

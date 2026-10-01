@@ -20,7 +20,7 @@ Gotowe tłumaczenia (v0.1): Load Checkpoint, CLIP Text Encode, KSampler, VAE Enc
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<twoj-login>/comfyui-info-pl
+git clone https://github.com/NFT-Ai/comfyui-info-pl
 ```
 
 Uruchom ponownie ComfyUI i odśwież przeglądarkę.
