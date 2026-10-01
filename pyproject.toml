@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-info-pl"
+description = "Dokumentacja nodów ComfyUI (zakładka Info) po polsku — tłumaczy tylko zwykły tekst, nazwy parametrów i kod zostają. Polish translation of the node Info docs."
+version = "0.1.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/CHANGE-ME/comfyui-info-pl"
+
+[tool.comfy]
+PublisherId = "CHANGE-ME"
+DisplayName = "Info PL — dokumentacja nodów po polsku"
+Icon = ""
